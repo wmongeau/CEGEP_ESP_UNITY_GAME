@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Scn_Start.unity
+    guid: e28c8654b41401547aa3ec46c394280a
+  - enabled: 1
+    path: Assets/_Scenes/Scn_Tutoriel.unity
+    guid: 295a3d6a037950f499692403c31b1f5f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/Niveau1.unity
+    guid: de46ba6f14297964cbc25518365d264f
+  - enabled: 0
+    path: Assets/_Scenes/CreationCylindres.unity
+    guid: ca9e163bc25d64e4ca41ac1a732727c5
+  - enabled: 1
+    path: "Assets/_Scenes/NiveauSup\xE9rieur.unity"
+    guid: 0dbf2592a1d928548bde612670112b38
