@@ -203,8 +203,6 @@ public class CubeTexturéFlottant : MonoBehaviour
     public void OnTriggerEnter(Collider other)
     {
 
-        AudioSource audio = GetComponent<AudioSource>();
-        audio.Play();
         while (nbMéthode == dernierPowerUp)
         {
             nbMéthode = rng.Next(0, 4);
