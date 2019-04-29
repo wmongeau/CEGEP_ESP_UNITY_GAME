@@ -7,6 +7,6 @@
 - Procedurally generated levels
 
 # Runnning the game
-To run the game, simply run the *builds* file. 
+To run the game, simply open the project in unity and go to *File*,*Build and Run*.
 
 Use *w,a,s,d* to control the player and *space* to jump. To control the camera, *right click* and move your mouse. If you reach a checkpoint, use *r* to respawn at that checkpoint. To spawn directly at the top of the tower, walk backwards on the path at the beginning of the level.
